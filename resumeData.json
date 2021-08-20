@@ -42,7 +42,7 @@
         "description": ""
       },
       {
-        "school": "Sven Eriksongymnasiet",
+        "school": "Sven Eriksongymnasiet, Borås",
         "degree": "Economics",
         "graduated": "June 2014",
         "description": ""
@@ -50,20 +50,50 @@
     ],
     "work": [
       {
-        "company": "Pulsen Production/Shibuya",
-        "title": "Support Technician",
-        "years": "April 2019 - Present",
+        "company": "Pulsen Production/Shibuya, Borås",
+        "title": "Support technician",
+        "years": "April 2019 - April 2021",
         "description": "Working part time during school breaks as a support technician."
+      },
+      {
+        "company": "Marks Kommun, Örby", 
+        "title": "Supply teacher/Class superintedent",
+        "years": "January 2016 - May 2018",
+        "description": ""
+      },
+      {
+        "company": "Marks Bostad AB, Kinna",
+        "title": "Property manager",
+        "years": "June 2016 - August 2016",
+        "description": ""
+      },
+      {
+        "company": "Transcom, Comviq, Borås",
+        "title": "Technical support",
+        "years": "June 2015 - August 2015",
+        "description": "Summer work"
+      },
+      {
+        "company": "Borås Kommun, Tokarpsbergs Preschool, Borås,
+        "title": "Supply teacher",
+        "years": "June 2014 - January 2016",
+        "description": ""
+      },
+      {
+        "company": "Marks kommun, Lindängs retirement home, Skene",
+        "title": "Intern",
+        "years": "July 2012 - August 2014",
+        "description": "2012, 2013, 2014 - Summer work"
       }
     ],
     "skills": [
       {
         "name": "Git",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "CSS",
@@ -71,7 +101,7 @@
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "70%"
       },
       {
         "name": "C#",
@@ -99,7 +129,7 @@
       },
       {
         "name": "SQL",
-        "level": "80%"
+        "level": "90%"
       }
     ]
   },
