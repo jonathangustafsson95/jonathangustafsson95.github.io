@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name": "Jonathan Gustafsson",
+    "occupation": "System Developer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "",
+    "contactmessage": "Feel free to submit your contact info to get in touch with me!",
+    "email": "jonathangustafsson95@gmail.com",
+    "phone": "076-13 46 210",
+    "address": {
+      "street": "",
+      "city": "Borås",
+      "zip": ""
+    },
+    "website": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/jonathan.gustafsson.988",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jonathan-gustafsson-a45a3916a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jonathangustafsson95",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Högskolan i Borås",
+        "degree": "Systemarkitekt/System developer",
+        "graduated": "June 2021",
+        "description": ""
+      },
+      {
+        "school": "Sven Eriksongymnasiet",
+        "degree": "Economics",
+        "graduated": "June 2014",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Pulsen Production/Shibuya",
+        "title": "Support Technician",
+        "years": "April 2019 - Present",
+        "description": "Working part time during school breaks as a support technician."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "C#",
+        "level": "90%"
+      },
+      {
+        "name": "C",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Pulsen Device inventory",
+        "category": "Written in PHP",
+        "image": "pulsen.png",
+        "url": ""
+      }
+    ]
+  }
+}
